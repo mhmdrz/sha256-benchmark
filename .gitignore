@@ -1,3 +1,9 @@
+# Claude Code
+.claude/
+
+# Compiled benchmark binary
+/bench
+
 # Prerequisites
 *.d
 
